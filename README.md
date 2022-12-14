@@ -24,6 +24,10 @@ Experienced in React JS and its main fundamentals like JSX, hooks, Virtual DOM, 
 ## Technologies and tools
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,nodejs,express,mongodb,firebase,git,github,vscode)](https://skillicons.dev)
 
+## GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BorislavBenderov)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <!--
