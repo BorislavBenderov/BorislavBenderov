@@ -3,7 +3,8 @@
 I am Borislav Benderov from Bulgaria.
 
 I am a passionate JavaScript developer who loves to design and implement beautiful and responsive web applications.
-Experienced in React JS and its main fundamentals like JSX, hooks, Virtual DOM, component lifecycle and Context API.
+Experienced in React JS and its main fundamentals like JSX, hooks, Virtual DOM, component lifecycle, Context API and
+Redux for state management.
 
 ## 🔭 Projects
 
@@ -22,7 +23,7 @@ Experienced in React JS and its main fundamentals like JSX, hooks, Virtual DOM, 
 - ToDo List Application - https://github.com/BorislavBenderov/todo-list-app
 
 ## Technologies and tools
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,nodejs,express,mongodb,firebase,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,redux,html,css,nodejs,express,mongodb,firebase,git,github,vscode)](https://skillicons.dev)
 
 ## GitHub Trophies
 
