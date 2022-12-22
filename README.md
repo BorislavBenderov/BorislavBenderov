@@ -23,7 +23,7 @@ Redux for state management.
 - ToDo List Application - https://github.com/BorislavBenderov/todo-list-app
 
 ## Technologies and tools
-[![My Skills](https://skillicons.dev/icons?i=js,react,redux,html,css,nodejs,express,mongodb,firebase,bootstrap,tailwind,jest,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,redux,html,css,nodejs,express,mongodb,firebase,bootstrap,tailwind,sass,jest,git,github,vscode)](https://skillicons.dev)
 
 ## GitHub Trophies
 
