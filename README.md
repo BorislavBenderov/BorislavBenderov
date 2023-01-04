@@ -12,6 +12,8 @@ Redux for state management.
 
 - Chat Application - https://github.com/BorislavBenderov/messenger-chat-app
 
+- MERN Book Catalogue Application - https://github.com/BorislavBenderov/mern-book-app
+
 - Fitness Application - https://github.com/BorislavBenderov/fitness-app
 
 - E-commerce Application - https://github.com/BorislavBenderov/ecommerce-laptop-app
