@@ -14,6 +14,8 @@ Redux for state management.
 
 - MERN Book Catalogue Application - https://github.com/BorislavBenderov/mern-book-app
 
+- Typescript Blog Application - https://github.com/BorislavBenderov/blog-ts-app
+
 - Fitness Application - https://github.com/BorislavBenderov/fitness-app
 
 - E-commerce Application - https://github.com/BorislavBenderov/ecommerce-laptop-app
@@ -25,7 +27,7 @@ Redux for state management.
 - ToDo List Application - https://github.com/BorislavBenderov/todo-list-app
 
 ## Technologies and tools
-[![My Skills](https://skillicons.dev/icons?i=js,react,redux,html,css,nodejs,express,mongodb,firebase,bootstrap,tailwind,sass,jest,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,html,css,nodejs,express,mongodb,firebase,bootstrap,tailwind,sass,jest,git,github,vscode)](https://skillicons.dev)
 
 ## GitHub Trophies
 
